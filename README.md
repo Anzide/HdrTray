@@ -10,9 +10,13 @@
   <a href="LICENSE"><img src="https://img.shields.io/github/license/Anzide/HdrTray" alt="MIT license"></a>
 </p>
 
+<div align="center">
+
 | <img src="docs/state-on.png" width="102" alt="Solid amber HDR icon"> | <img src="docs/state-off.png" width="102" alt="Outlined HDR icon"> | <img src="docs/state-paused.png" width="102" alt="Amber outlined HDR icon"> | <img src="docs/state-unavailable.png" width="102" alt="Faded outlined HDR icon"> |
 | :---: | :---: | :---: | :---: |
 | On | Off | Paused by Windows | No HDR display |
+
+</div>
 
 ## Usage
 
