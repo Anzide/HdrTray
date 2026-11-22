@@ -1,0 +1,4 @@
+# Sources are UTF-8 without BOM, LF line endings.
+* text=auto eol=lf
+*.exe binary
+*.ico binary

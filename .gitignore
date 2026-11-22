@@ -1,0 +1,10 @@
+# Build output (run build.ps1 to regenerate)
+/build/
+
+# Editor / OS clutter
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
